@@ -1,4 +1,5 @@
-📌 Library Management System - SQL Script
+📌 Library Management System
+SQL Script
 📖 Overview
 Welcome to the Library Management System SQL database! This script is designed to efficiently manage books, authors, members, and transactions within a library. Whether you're a developer, student, or database enthusiast, this script provides a well-structured approach for managing a library system 📚
 
